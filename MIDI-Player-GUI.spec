@@ -1,6 +1,7 @@
 Name: MIDI-Player-GUI
 Version: 1.1
-Release: %autorelease
+Release: 2
+#Release: %autorelease
 Summary: MIDI-Player-GUI
 License: CHANGE ME
 URL: https://github.com/Mormacill/MIDI-Player-GUI
