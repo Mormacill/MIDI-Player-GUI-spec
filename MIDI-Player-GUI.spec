@@ -2,7 +2,7 @@ Name: MPG
 Version: 1.0
 Release: %autorelease
 Summary: MIDI-Player-GUI
-License: 
+License: CHANGE ME
 URL: https://github.com/Mormacill/MIDI-Player-GUI
 Source0: https://github.com/Mormacill/MIDI-Player-GUI/archive/refs/tags/%{version}.tar.gz
 
