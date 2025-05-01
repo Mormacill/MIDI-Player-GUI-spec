@@ -16,8 +16,6 @@ This is the MIDI Player GUI Package.
 %prep
 %setup -q
 
-%build
-
 %install
 mkdir -p %{buildroot}/usr/bin/
 install -m 755 midi.py %{buildroot}/usr/bin/midiPG
