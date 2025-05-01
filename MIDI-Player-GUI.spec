@@ -1,4 +1,4 @@
-Name: MPG
+Name: MIDI-Player-GUI
 Version: 1.0
 Release: %autorelease
 Summary: MIDI-Player-GUI
