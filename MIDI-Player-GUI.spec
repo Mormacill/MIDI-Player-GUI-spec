@@ -6,6 +6,8 @@ License: CHANGE ME
 URL: https://github.com/Mormacill/MIDI-Player-GUI
 Source0: https://github.com/Mormacill/MIDI-Player-GUI/archive/refs/tags/%{version}.tar.gz
 
+BuildArch: noarch
+
 Requires: python3-tkinter
 Requires: python3-mido
 Requires: python3-rtmidi
@@ -15,6 +17,8 @@ This is the MIDI Player GUI Package.
 
 %prep
 %setup -q
+
+%build
 
 %install
 mkdir -p %{buildroot}/usr/bin/
