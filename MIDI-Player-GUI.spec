@@ -18,7 +18,7 @@ Requires: python3-rtmidi
 This is the MIDI Player GUI Package.
 
 %prep
-%setup -q
+%autosetup
 
 %build
 
