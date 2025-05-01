@@ -1,5 +1,5 @@
 Name: MIDI-Player-GUI
-Version: 1.0
+Version: 1.1
 Release: %autorelease
 Summary: MIDI-Player-GUI
 License: CHANGE ME
