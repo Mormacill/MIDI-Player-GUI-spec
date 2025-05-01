@@ -5,6 +5,7 @@ Summary: MIDI-Player-GUI
 License: CHANGE ME
 URL: https://github.com/Mormacill/MIDI-Player-GUI
 Source0: https://github.com/Mormacill/MIDI-Player-GUI/archive/refs/tags/%{version}.tar.gz
+Patch0: port.patch
 
 BuildArch: noarch
 
